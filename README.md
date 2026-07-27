@@ -85,17 +85,16 @@ Decentralized verification platform built on the Sui Blockchain.
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charlesevangeliojr&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesevangeliojr&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlesevangeliojr&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charlesevangeliojr&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charlesevangeliojr&theme=tokyonight" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=charlesevangeliojr&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=charlesevangeliojr&theme=tokyonight" />
 </p>
 
 ---
