@@ -18,7 +18,6 @@
 🚀 Experienced in Full-Stack Development, Docker, VPS Administration, AI Integration, Networking, and Web3 Development.
 
 🌱 Currently learning:
-- Kubernetes
 - Cloud Infrastructure
 - Advanced AI Agents
 
